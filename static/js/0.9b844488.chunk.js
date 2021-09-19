@@ -1,0 +1,2 @@
+(this.webpackJsonpaccesibility=this.webpackJsonpaccesibility||[]).push([[0],{36:function(e,t,c){"use strict";c.r(t),c.d(t,"default",(function(){return s}));var i=c(16),n=c.n(i),r=c(1),a=document.querySelector("#modal"),s=function(e){var t=e.isOpen;return void 0!==t&&t?n.a.createPortal(Object(r.jsx)(r.Fragment,{children:Object(r.jsx)("div",{children:"Modal"})}),a):null}}}]);
+//# sourceMappingURL=0.9b844488.chunk.js.map
